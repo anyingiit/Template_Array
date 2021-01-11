@@ -24,7 +24,7 @@ public:
             reSize(size * 2);
         }
         for (int i = size - 1; i >= index; i--) {
-            data[i + 1] = i;
+            data[i + 1] = data[i];
         }
         data[index] = e;
         size++;

@@ -1,9 +1,10 @@
 #include <iostream>
 #include "Array.h"
 
+
+void heTest();
 int main() {
-//    std::cout << "Hello, World!" << std::endl;
-//    auto *test =  Array<string>;
+    std::cout << "Hello, World!" << std::endl;
     Array<int> *array = new Array<int>();
     for (int i = 0; i < 10; ++i) {
         array->addLast(i);
@@ -27,6 +28,5 @@ int main() {
     }
     array = nullptr;
     delete array;
-    return 0;
     return 0;
 }

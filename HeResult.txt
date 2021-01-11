@@ -1,0 +1,44 @@
+tudy\Array\cmake-build-debug\Array.exe
+Array: size = 1, capacity = 5
+[0]
+Array: size = 2, capacity = 5
+[0,1]
+Array: size = 3, capacity = 5
+[0,1,2]
+Array: size = 4, capacity = 5
+[0,1,2,3]
+Array: size = 5, capacity = 5
+[0,1,2,3,4]
+Array: size = 6, capacity = 10
+[0,1,2,3,4,5]
+Array: size = 7, capacity = 10
+[0,1,2,3,4,5,6]
+Array: size = 8, capacity = 10
+[0,1,2,3,4,5,6,7]
+Array: size = 9, capacity = 10
+[0,1,2,3,4,5,6,7,8]
+Array: size = 10, capacity = 10
+[0,1,2,3,4,5,6,7,8,9]
+Array: size = 11, capacity = 20
+[0,100,1,2,3,4,5,6,7,8,9]
+Array: size = 12, capacity = 20
+[-1,0,100,1,2,3,4,5,6,7,8,9]
+Array: size = 11, capacity = 20
+[-1,0,1,2,3,4,5,6,7,8,9]
+Array: size = 10, capacity = 20
+[-1,0,1,2,3,5,6,7,8,9]
+Array: size = 9, capacity = 20
+[-1,0,1,2,3,5,6,7,8]
+Array: size = 8, capacity = 20
+[0,1,2,3,5,6,7,8]
+Array: size = 7, capacity = 20
+[1,2,3,5,6,7,8]
+Array: size = 6, capacity = 20
+[2,3,5,6,7,8]
+Array: size = 5, capacity = 10
+[3,5,6,7,8]
+Array: size = 4, capacity = 10
+[5,6,7,8]
+
+Process finished with exit code 0
+
