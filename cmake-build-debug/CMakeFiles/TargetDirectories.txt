@@ -1,3 +1,0 @@
-F:/Study/Array/cmake-build-debug/CMakeFiles/Array.dir
-F:/Study/Array/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Study/Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
