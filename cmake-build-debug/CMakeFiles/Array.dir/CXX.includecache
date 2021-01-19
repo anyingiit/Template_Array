@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-F:/Study/Array/Array.h
-iostream
--
-
 F:/Study/Array/main.cpp
-iostream
+stdio.h
 -
-Array.h
-F:/Study/Array/Array.h
+conio.h
+-
+stdlib.h
+-
 
